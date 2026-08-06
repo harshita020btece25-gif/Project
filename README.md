@@ -9,25 +9,21 @@ Although this project recreates only the homepage of Amazon, it served as a valu
 
 # Features
 Responsive navigation bar   
-Search bar with category selector
-Hero banner section
-Product category cards
-Footer with multiple sections
-Clean and organized layout using CSS
+Search bar with category selector    
+Hero banner section    
+Product category cards     
+Footer with multiple sections    
+Clean and organized layout using CSS     
 
 # Technologies Used
-HTML5
-
-CSS3
+HTML5    
+CSS3    
 
 # Project Structure
-├── index.html
-
-├── style.css
-
-└── README.md
+├── index.html     
+├── style.css     
+└── README.md      
 
 # Developed By
-Akshita Jain, B.Tech ECE at IGDTUW, Delhi
-
-Harshita Baweja, B.Tech ECE at IGDTUW, Delhi
+Akshita Jain, B.Tech ECE at IGDTUW, Delhi     
+Harshita Baweja, B.Tech ECE at IGDTUW, Delhi     
