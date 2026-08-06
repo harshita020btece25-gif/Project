@@ -8,7 +8,7 @@ Working together allowed us to practice collaborative development, improve our p
 Although this project recreates only the homepage of Amazon, it served as a valuable learning experience and helped us build a strong foundation in frontend web development.
 
 # Features
-Responsive navigation bar
+Responsive navigation bar   
 Search bar with category selector
 Hero banner section
 Product category cards
