@@ -17,13 +17,17 @@ Clean and organized layout using CSS
 
 # Technologies Used
 HTML5
+
 CSS3
 
 # Project Structure
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 # Developed By
 Akshita Jain, B.Tech ECE at IGDTUW, Delhi
+
 Harshita Baweja, B.Tech ECE at IGDTUW, Delhi
