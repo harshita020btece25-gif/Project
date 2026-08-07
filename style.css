@@ -261,15 +261,21 @@ ul a {
     background-color: #0f1111;
     color: white;
     height:80px;
-    /*display: flex;
+    display: flex;
+    flex-direction:column;
     justify-content:center;
-    align-items:center;*/
+    align-items:center;
 }
 
 .pages {
     padding-top:25px;
+    font-size:0.7rem;
+    text-align:center;
+
 }
 
 .copyright {
     padding-top:5px;
+    font-size:0.7rem;
+    text-align:center;
 }
