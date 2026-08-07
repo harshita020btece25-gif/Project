@@ -144,13 +144,52 @@ span{
 }
 
 /**hero section**/
-.hero-section {
-    background-image: url("images/hero_section.png");
-    background-size:cover;
-    height:380px;
-    display:flex;
+.hero-section{
+    position: relative;
+    width: 100%;
+    height: 380px;
+    overflow: hidden;
+
+    display: flex;
     justify-content: center;
-    align-items:flex-end;
+    align-items: flex-end;
+}
+
+.hero-image{
+    width: 100%;
+    height: auto;
+    
+
+    position: absolute;
+    top:-2px;
+    left: 0;
+    z-index: -1;
+
+    opacity: 1;
+    transition: opacity 0.8s ease-in-out;
+}
+
+.arrow{
+    position:absolute;
+    top:40%;
+    transform:translateY(-50%);
+
+    background:none;
+    border:none;
+
+    font-size:60px;
+    cursor:pointer;
+
+    color:black;
+    z-index:5;
+}
+
+.left{
+    left:20px;
+}
+
+.right{
+    right:20px;
 }
 
 .hero-msg {
