@@ -22,10 +22,10 @@ CSS3
 JavaScript
 
 # Project Structure
-├── index.html
-├── style.css
-├── script.js
-└── README.md    
+├── index.html      
+├── style.css     
+├── script.js     
+└── README.md         
 
 # Developed By
 Akshita Jain, B.Tech ECE at IGDTUW, Delhi     
