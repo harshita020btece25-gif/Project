@@ -18,7 +18,7 @@ Interactive hero image carousel using JavaScript
 
 # Technologies Used
 HTML5    
-CSS3
+CSS3      
 JavaScript
 
 # Project Structure
