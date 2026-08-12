@@ -14,7 +14,8 @@ Hero banner section
 Product category cards       
 Footer with multiple sections      
 Clean and organized layout using CSS      
-Interactive hero image carousel using JavaScript
+Interactive hero image carousel using JavaScript       
+Responsive ViewPort
 
 # Technologies Used
 HTML5    
